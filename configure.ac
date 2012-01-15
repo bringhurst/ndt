@@ -30,7 +30,8 @@
 # 
 # AC_PREREQ(2.57)
 AC_INIT([NDT],[3.6.4],[rcarlson501@gmail.com])
-AC_CONFIG_AUX_DIR(config)
+AC_CONFIG_AUX_DIR(auxdir)
+AC_CONFIG_MACRO_DIR([m4])
 # AM_INIT_AUTOMAKE(NDT, v1.0, [no-define])
 AM_INIT_AUTOMAKE
 AC_CONFIG_SRCDIR([src/analyze.c])
