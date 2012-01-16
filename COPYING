@@ -1,8 +1,12 @@
 Copyright (c) 2003 University of Chicago.  All rights reserved.
+
 The Web100 Network Diagnostic Tool (NDT) is distributed subject to the
 following license conditions:
+
 SOFTWARE LICENSE AGREEMENT
+
 Software: Web100 Network Diagnostic Tool (NDT)
+
 1. The "Software", below, refers to the Web100 Network Diagnostic Tool
    (NDT) (in either source code, or binary form and accompanying documentation).
    Each licensee is addressed as "you" or "Licensee."
@@ -45,5 +49,6 @@ Software: Web100 Network Diagnostic Tool (NDT)
    FOR ANY REASON WHATSOEVER, WHETHER SUCH LIABILITY IS ASSERTED ON THE BASIS OF
    CONTRACT, TORT (INCLUDING NEGLIGENCE OR STRICT LIABILITY), OR OTHERWISE, EVEN
    IF ANY OF SAID PARTIES HAS BEEN WARNED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGES.
+
 The Software was developed at least in part by the University of Chicago, as
 Operator of Argonne National Laboratory (http://miranda.ctd.anl.gov:7123/). 

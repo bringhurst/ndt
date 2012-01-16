@@ -1,26 +1,4 @@
-#########################################################################
-#									#
-#			   Copyright (C)  2002				#
-#	     			Internet2				#
-#			   All Rights Reserved				#
-#									#
-#########################################################################
-#
-#	File:		Makefile.am
-#
-#	Author:		Rich Carlson
-#			Internet2
-#
-#	Date:		Fri Feb 27 13:37:24 CST 2004
-#
-#	Description:	toplevel build for bwctl
-#
-
-if HAVE_GCJ
-SUBDIRS = @TOP_BUILD_DIRS@ src Admin Applet conf doc janalyze
-else
 SUBDIRS = @TOP_BUILD_DIRS@ src conf doc
-endif
 
 EXTRA_DIST = admin_description.html admin.html \
 	tcpbw100.template copyright.html web100variables.html \
